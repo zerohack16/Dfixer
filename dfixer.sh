@@ -9,7 +9,7 @@ mv fixer.sh /root/
 echo "setting up permissions"
 chmod +x /root/fixer.sh
 
-/root/zerodassl.sh
+/root/fixer.sh
 rm /root/fixer.sh
 
 echo "process done."
