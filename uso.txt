@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com//zerohack16/Dfixer/blob/main/dfixer.sh
+wget https://raw.githubusercontent.com/zerohack16/Dfixer/main/dfixer.sh
 chmod +x dfixer.sh
 ./dfixer.sh
 rm dfixer.sh

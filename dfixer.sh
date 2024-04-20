@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Downloading main script:"
-wget https://raw.githubusercontent.com/zerohack16/Dfixer/blob/main/fixer.sh
+wget https://raw.githubusercontent.com/zerohack16/Dfixer/main/fixer.sh
 
 
 echo "moving script to right path: "
