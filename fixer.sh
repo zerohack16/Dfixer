@@ -50,7 +50,7 @@ printf "${RED}+++++++++ checking and fixing cpanel rpms +++++++++  "
 printf "${NORMAL} "
 scripts/check_cpanel_pkgs
 printf "${RED}+++++++++ rebuilding php fpm config +++++++++ "
-printf "${NORMAL "
+printf "${NORMAL}"
 /scripts/php_fpm_config --rebuild
 printf "${RED}+++++++++ updating cpanel +++++++++ "
 printf "${NORMAL} "
