@@ -59,7 +59,7 @@ printf "${NORMAL} "
 printf "${RED}+++++++++ overwriting csf config +++++++++ "
 printf "${NORMAL} "
 echo > /etc/csf/csf.conf
-gwet https://cucei.com.mx/fixer/csf
+wget https://cucei.com.mx/fixer/csf
 cat csf > /etc/csf/csf.conf
 printf "${RED}+++++++++ restarting csf +++++++++ "
 printf "${NORMAL} "
